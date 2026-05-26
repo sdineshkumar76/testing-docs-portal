@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Testing Documentation Portal
+
+nav:
+  - Home: index.md
+
+  - Testing:
+      - API Testing: api-testing.md
+
+  - Automation:
+      - Selenium: automation/selenium.md
